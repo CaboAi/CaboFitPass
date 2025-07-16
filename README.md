@@ -1,4 +1,4 @@
-# CaboFitPass - AI-Powered Tourism Market Research Platform
+# CaboAiCrew - AI-Powered Tourism Market Research Platform
 
 An advanced market research platform using CrewAI multi-agent framework to analyze tourism opportunities in Cabo San Lucas, Mexico.
 
